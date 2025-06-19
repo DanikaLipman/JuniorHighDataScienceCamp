@@ -1,31 +1,31 @@
-"","Timestamp","Activity_Type","Product_Code","Store_Product","Action_Taken","Action_Taken","Days_Since_Last_Action"
-"6",2025-07-14 13:58:00,"Image Upload","A048","Art","Uploaded product photo","Uploaded product photo",25
-"8",2025-07-14 14:08:00,"Image Upload","A118","Art","Uploaded product photo","Uploaded product photo",28
-"4",2025-07-14 13:56:00,"Image Upload","A184","Art","Uploaded product photo","Uploaded product photo",17
-"18",2025-07-14 14:34:00,"Edit","A185","Art","Changed product price","Changed product price",20
-"24",2025-07-14 14:58:00,"Image Upload","A200","Art","Uploaded product photo","Uploaded product photo",20
-"13",2025-07-14 14:21:00,"Edit","A202","Art","Changed product price","Changed product price",19
-"19",2025-07-14 14:40:00,"Edit","A209","Art","Changed product price","Changed product price",8
-"10",2025-07-14 14:14:00,"Image Upload","A317","Art","Uploaded product photo","Uploaded product photo",11
-"30",2025-07-14 15:15:00,"Image Upload","A327","Art","Uploaded product photo","Uploaded product photo",5
-"20",2025-07-14 14:43:00,"Image Upload","A431","Art","Uploaded product photo","Uploaded product photo",14
-"1",2025-07-14 13:45:00,"Edit","A459","Art","Changed product price","Changed product price",23
-"26",2025-07-14 15:06:00,"Image Upload","A475","Art","Uploaded product photo","Uploaded product photo",22
-"5",2025-07-14 13:57:00,"Edit","A607","Art","Changed product price","Changed product price",6
-"17",2025-07-14 14:32:00,"Edit","A664","Art","Changed product price","Changed product price",27
-"12",2025-07-14 14:20:00,"Image Upload","A944","Art","Uploaded product photo","Uploaded product photo",25
-"23",2025-07-14 14:55:00,"Image Upload","A990","Art","Uploaded product photo","Uploaded product photo",25
-"15",2025-07-14 14:29:00,"Edit","J034","Jewelry","Changed product price","Changed product price",7
-"16",2025-07-14 14:30:00,"Edit","J103","Jewelry","Changed product price","Changed product price",26
-"14",2025-07-14 14:27:00,"Edit","J155","Jewelry","Changed product price","Changed product price",13
-"3",2025-07-14 13:52:00,"Image Upload","J305","Jewelry","Uploaded product photo","Uploaded product photo",5
-"28",2025-07-14 15:11:00,"Edit","J453","Jewelry","Changed product price","Changed product price",23
-"2",2025-07-14 13:50:00,"Image Upload","J500","Jewelry","Uploaded product photo","Uploaded product photo",9
-"9",2025-07-14 14:13:00,"Edit","J654","Jewelry","Changed product price","Changed product price",12
-"11",2025-07-14 14:17:00,"Edit","J669","Jewelry","Changed product price","Changed product price",18
-"27",2025-07-14 15:10:00,"Edit","J722","Jewelry","Changed product price","Changed product price",3
-"21",2025-07-14 14:46:00,"Image Upload","J727","Jewelry","Uploaded product photo","Uploaded product photo",6
-"7",2025-07-14 14:04:00,"Image Upload","J788","Jewelry","Uploaded product photo","Uploaded product photo",18
-"22",2025-07-14 14:49:00,"Edit","J803","Jewelry","Changed product price","Changed product price",2
-"29",2025-07-14 15:12:00,"Edit","J960","Jewelry","Changed product price","Changed product price",5
-"25",2025-07-14 15:04:00,"Edit","J967","Jewelry","Changed product price","Changed product price",22
+"Timestamp","Activity_Type","Product_Code","Store_Product","Action_Taken","Action_Taken","Days_Since_Last_Action"
+2025-07-14 13:58:00,"Image Upload","A048","Art","Uploaded product photo","Uploaded product photo",25
+2025-07-14 14:08:00,"Image Upload","A118","Art","Uploaded product photo","Uploaded product photo",28
+2025-07-14 13:56:00,"Image Upload","A184","Art","Uploaded product photo","Uploaded product photo",17
+2025-07-14 14:34:00,"Edit","A185","Art","Changed product price","Changed product price",20
+2025-07-14 14:58:00,"Image Upload","A200","Art","Uploaded product photo","Uploaded product photo",20
+2025-07-14 14:21:00,"Edit","A202","Art","Changed product price","Changed product price",19
+2025-07-14 14:40:00,"Edit","A209","Art","Changed product price","Changed product price",8
+2025-07-14 14:14:00,"Image Upload","A317","Art","Uploaded product photo","Uploaded product photo",11
+2025-07-14 15:15:00,"Image Upload","A327","Art","Uploaded product photo","Uploaded product photo",5
+2025-07-14 14:43:00,"Image Upload","A431","Art","Uploaded product photo","Uploaded product photo",14
+2025-07-14 13:45:00,"Edit","A459","Art","Changed product price","Changed product price",23
+2025-07-14 15:06:00,"Image Upload","A475","Art","Uploaded product photo","Uploaded product photo",22
+2025-07-14 13:57:00,"Edit","A607","Art","Changed product price","Changed product price",6
+2025-07-14 14:32:00,"Edit","A664","Art","Changed product price","Changed product price",27
+2025-07-14 14:20:00,"Image Upload","A944","Art","Uploaded product photo","Uploaded product photo",25
+2025-07-14 14:55:00,"Image Upload","A990","Art","Uploaded product photo","Uploaded product photo",25
+2025-07-14 14:29:00,"Edit","J034","Jewelry","Changed product price","Changed product price",7
+2025-07-14 14:30:00,"Edit","J103","Jewelry","Changed product price","Changed product price",26
+2025-07-14 14:27:00,"Edit","J155","Jewelry","Changed product price","Changed product price",13
+2025-07-14 13:52:00,"Image Upload","J305","Jewelry","Uploaded product photo","Uploaded product photo",5
+2025-07-14 15:11:00,"Edit","J453","Jewelry","Changed product price","Changed product price",23
+2025-07-14 13:50:00,"Image Upload","J500","Jewelry","Uploaded product photo","Uploaded product photo",9
+2025-07-14 14:13:00,"Edit","J654","Jewelry","Changed product price","Changed product price",12
+2025-07-14 14:17:00,"Edit","J669","Jewelry","Changed product price","Changed product price",18
+2025-07-14 15:10:00,"Edit","J722","Jewelry","Changed product price","Changed product price",3
+2025-07-14 14:46:00,"Image Upload","J727","Jewelry","Uploaded product photo","Uploaded product photo",6
+2025-07-14 14:04:00,"Image Upload","J788","Jewelry","Uploaded product photo","Uploaded product photo",18
+2025-07-14 14:49:00,"Edit","J803","Jewelry","Changed product price","Changed product price",2
+2025-07-14 15:12:00,"Edit","J960","Jewelry","Changed product price","Changed product price",5
+2025-07-14 15:04:00,"Edit","J967","Jewelry","Changed product price","Changed product price",22
